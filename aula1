@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title>Primeiro</title>
+    <meta charset="UTF-8">
+</head>
+
+<body>
+    <header>
+        <h1>Meu Portifólio</h1>
+    </header>
+
+<main>
+
+    <h1>Nome: Gabriel Antunes da Silva</h1>
+    <h2>E-mail: g.antunes2002@gmail.com</h2>
+    <h2>Curso: Engenharia de Software</h2><br>
+    <h1>Apresentação</h1>
+    <p>A linguagem que mais gosto de estudar é Python.<br>Gosto de ler, principalmente sobre história e filosofia, para entender conceitos relacionados à vida.<br></p>
+
+    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHEiwUCD3rdig/company-logo_100_100/company-logo_100_100/0/1684183652831?e=1749081600&v=beta&t=Toe-TH1IAfIotF6NaiyZkhrRLSpyGTelG0xGcnWJLOE" alt="Pedro Gay">
+</main> 
+
+
+    <footer>
+        <span>Linkedin</span><br>
+	    <span>Instagram</span><br>
+	    <span>GitHub</span><br>
+    </footer>
+
+</body>
+</html>
