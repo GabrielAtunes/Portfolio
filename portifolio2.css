@@ -1,0 +1,47 @@
+body{
+    margin-top: 0;
+    margin-left: 0;
+    background-color: #13141F;
+}
+
+h1{
+    word-wrap: break-word;
+    color: white;
+    font-size: 40pt;
+}
+
+p{
+    word-wrap: break-word;
+    color: white;
+    font-size: 20pt;
+}
+
+div{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.conteiner{
+    display: flex;
+    justify-content: center;
+    align-items: center, flex-start;
+    width: 75%;
+    margin: 0 auto;
+    margin-top: 3%;
+}
+
+.c1{
+    display: flexbox;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+strong{
+    color: rgb(71, 179, 255);
+}
+
+a{
+    display: inline-block;
+    background-color: rgb(71, 179, 255);
+}
+
